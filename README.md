@@ -1,2 +1,3 @@
 # Dinostaur where you can register login and feed your favorite dinos.
-# Search bar and orders still working on
+# Search bar still in process 
+# going to update 
